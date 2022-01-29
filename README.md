@@ -20,4 +20,8 @@ if anyone wants to contribute to Frontend then you are welcome.
 # IDE:-
 ## >> Intellj
 
+###### Ok enough of talking now you can try the app from this link below
+[https://guftugu.herokuapp.com/](Guftugu)
+
+
 P.S:) I am currently learning and trying out Spring Boot.
